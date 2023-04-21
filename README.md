@@ -1,2 +1,2 @@
 # project-template
-Template for reproducible data analysis project using RStudio, R Markdown, Quarto, GitHub, etc.
+Template for a reproducible data analysis project using RStudio, R Markdown, Quarto, and GitHub.
