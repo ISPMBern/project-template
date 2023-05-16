@@ -1,5 +1,5 @@
 # project-template
-Template for a reproducible data analysis project using RStudio, R Markdown, Quarto, and GitHub. The structure below gives an example of files for the individual folders/direcories. Each folder/directory contains a README.md file with additional information.
+Template for a reproducible data analysis project using RStudio, R Markdown, Quarto, and GitHub. The structure below gives an example of files for the individual folders. Each folder contains a README.md file with additional information.
 
 - data
     - processed
