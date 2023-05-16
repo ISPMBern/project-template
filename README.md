@@ -1,6 +1,7 @@
 # project-template
 Template for a reproducible data analysis project using RStudio, R Markdown, Quarto, and GitHub. The structure below gives an example of files for the individual folders. Each folder contains a README.md file with additional information.
 
+An example for the content of this project template looks like this:
 - data
     - processed
         - cleaned_data.csv
