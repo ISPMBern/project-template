@@ -1,19 +1,24 @@
 # project-template
-Template for a reproducible data analysis project using RStudio, R Markdown, Quarto, and GitHub.
+Template for a reproducible data analysis project using RStudio, R Markdown, Quarto, and GitHub. The structure below gives an example of files for the individual folders/direcories. Each folder/directory contains a README.md file with additional information.
 
 - data
-    - raw
-        - original_data.xlsx
     - processed
-        - cleaned_data.rds
-- R
-    - 00_main.R
-    - 01_cleaning.R
-    - 02_analysis.R
-    - 03_plotting.R
+        - cleaned_data.csv
+        - processed_data.rds
+    - raw
+        - original_data.csv
+        - spreadsheet_data.xlsx
+- output
+    - figures
+        - 01_figure.png
+        - 02_figure.pdf
+    - tables
+        - 01_table.csv
+        - 02_table.rds
 - products
     - manuscript
         - manuscript.docx
+        - manuscript.html
         - manuscript.pdf
         - manuscript.qmd
     - report
@@ -22,13 +27,11 @@ Template for a reproducible data analysis project using RStudio, R Markdown, Qua
     - slides
         - slides.html
         - slides.qmd
-- projectname.Rproj
-- output
-    - figures
-        - 01_figure.png
-        - 02_figure.png
-    - tables
-        - 01_table.csv
-        - 02_table.rds
+- R
+    - 00_main.R
+    - 01_cleaning.R
+    - 02_analysis.R
+    - 03_plotting.R
 - .gitignore
+- projectname.Rproj
 - README.md
