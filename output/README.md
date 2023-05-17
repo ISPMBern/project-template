@@ -1,0 +1,2 @@
+# output/
+The folders inside this folder contains generated output using code from the `R` and `products` folders. The folder `figures` can contains figures and the folder `tables` contains tables in various formats.
