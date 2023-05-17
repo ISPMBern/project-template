@@ -38,3 +38,5 @@ An example for the content of this project template looks like this:
 - .gitignore
 - README.md
 - project-template.Rproj
+
+Thanks to [andreashandel](https://github.com/andreashandel) and others from whom this template is inspired.
