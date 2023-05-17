@@ -1,6 +1,8 @@
 # project-template
 Template for a reproducible data analysis project using RStudio, R Markdown, Quarto, and GitHub. The structure below gives an example of files for the individual folders. Each folder contains a README.md file with additional information.
 
+This is a Github repository template. You can generate a new repository with the same folder structure and files [by following these steps](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template).
+
 An example for the content of this project template looks like this:
 - R
     - 00_main.R
